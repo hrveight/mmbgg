@@ -1,3 +1,5 @@
+pip install matplotlib pandas numpy seaborn scikit-learn scipy geopandas plotly
+
 import streamlit as st
 import pandas as pd
 import numpy as np
